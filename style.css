@@ -56,10 +56,10 @@ main{
     font-family: Helvetica;
     position: relative;
 }
-.raw{
+.row{
     margin: 20px;
 }
-.raw .key{
+.row .key{
     margin: 0 10px;
 }
 .key img{
